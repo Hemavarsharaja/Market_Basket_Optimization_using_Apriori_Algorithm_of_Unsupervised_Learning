@@ -64,7 +64,7 @@ matplotlib / seaborn (for visualization)
 
 Clone the repository:
 
-git clone https://github.com/your-username/Market_Basket_Optimization_using_Apriori_Algorithm.git
+git clone https://github.com/Hemavarsharaja/Market_Basket_Optimization_using_Apriori_Algorithm.git
 
 
 Install required libraries:
